@@ -3,4 +3,4 @@
 # Total Activity used
  --- i used 7+ activity for creating a good projects and currently working on-----
  # Splash Screen
- <img src="D:\DownloadsGoogle\splashscreen.jpeg"  width="200" height="400" />
+<img src='"D:\DownloadsGoogle\splashscreen.jpeg"' width='25'>
